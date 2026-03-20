@@ -1,5 +1,5 @@
 {
-  "name": "property-mg-api",
+  "name": "api-preset",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
